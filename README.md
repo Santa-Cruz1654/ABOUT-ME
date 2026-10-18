@@ -9,9 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Santa-Cruz1654&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Santa-Cruz1654?style=flat-square&color=4F46E5&label=FOLLOWERS)
-
 </div>
 
 ---
