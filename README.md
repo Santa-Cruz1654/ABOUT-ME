@@ -204,11 +204,6 @@ SASTRA Deemed University · 2022–2026 · CGPA: 8.00
 
 The combination of software, networks, security, and physical systems made me curious about how complex systems behave. Today, that curiosity shows up most in AI applications: I want to understand not just model behavior, but also the application, tools, data, control flow, and safeguards around it.
 
-### Certifications and learning
-
-- Google Cybersecurity Specialization
-- Deloitte Australia Cyber Job Simulation
-- Mastercard Cybersecurity Job Simulation
 
 ## What I'm learning next
 
